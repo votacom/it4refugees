@@ -15,7 +15,7 @@ Here, you will find:
 
 Additional homework:
 * do the exercise on the for-loop from the presentation slides (slide number 11 of 12)
-* try out the program named "Preview" from the IntelliJ project to see what you wcan do after the next lecture.
+* try out the program named "Preview" from the IntelliJ project to see what you can do after the next lecture.
 
 
 
