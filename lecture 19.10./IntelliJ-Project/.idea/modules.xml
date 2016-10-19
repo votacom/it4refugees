@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/For - Counter/For - Counter.iml" filepath="$PROJECT_DIR$/For - Counter/For - Counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For - DivisibleSum/For - DivisibleSum.iml" filepath="$PROJECT_DIR$/For - DivisibleSum/For - DivisibleSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkUnTilToday - Cube/HomeworkUnTilToday - Cube.iml" filepath="$PROJECT_DIR$/HomeworkUnTilToday - Cube/HomeworkUnTilToday - Cube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkUntilToday - Circle/HomeworkUntilToday - Circle.iml" filepath="$PROJECT_DIR$/HomeworkUntilToday - Circle/HomeworkUntilToday - Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IT4Refugees 19.10..iml" filepath="$PROJECT_DIR$/IT4Refugees 19.10..iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfElse - AmPm/IfElse - AmPm.iml" filepath="$PROJECT_DIR$/IfElse - AmPm/IfElse - AmPm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfElse - Pizza/IfElse - Pizza.iml" filepath="$PROJECT_DIR$/IfElse - Pizza/IfElse - Pizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Preview/Preview.iml" filepath="$PROJECT_DIR$/Preview/Preview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While - Counter/While - Counter.iml" filepath="$PROJECT_DIR$/While - Counter/While - Counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While - PowersOf2/While - PowersOf2.iml" filepath="$PROJECT_DIR$/While - PowersOf2/While - PowersOf2.iml" />
+    </modules>
+  </component>
+</project>
