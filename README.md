@@ -18,5 +18,10 @@ Additional homework:
 * do the exercise on the for-loop from the presentation slides (slide number 11 of 12)
 * try out the program named "Preview" from the IntelliJ project to see what you can do after the next lecture.
 
+## Oct 17:
+
+We have learned what are variables, how to declare and initialize them, what is a constant, the arithmetic operators and the string concatenation operator.
+
+The presentationc slides are available in the respective directory.
 
 
