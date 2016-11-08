@@ -1,6 +1,6 @@
 package exercise5.test;
 
-import exercise1.task.Exercise1;
+import exercise5.task.Exercise5;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.contrib.java.lang.system.StandardOutputStreamLog;
@@ -16,7 +16,7 @@ public class Exercise5Test {
     public final StandardOutputStreamLog log = new StandardOutputStreamLog();
 
     @Test
-    public void testDrawNumDiamondOutput1() throws Exception {
+    public void testDrawDiamondOutput1() throws Exception {
         String[] testValues = new String[]{
                 "       1       ",
                 "      222      ",
@@ -37,25 +37,25 @@ public class Exercise5Test {
         for(String i: testValues) {
             testString.append(i).append(System.lineSeparator());
         }
-        Exercise1.drawNumDiamond(15);
+        Exercise5.drawDiamond(15);
         assertEquals(testString.toString(), log.getLog());
     }
 
     @Test
     public void testDrawNumDiamondOutput2() throws Exception {
-        Exercise1.drawNumDiamond(1);
+        Exercise5.drawDiamond(1);
         assertEquals("1"+System.lineSeparator(), log.getLog());
     }
 
     @Test
     public void testDrawNumDiamondOutput3() throws Exception {
-        Exercise1.drawNumDiamond(0);
+        Exercise5.drawDiamond(0);
         assertEquals("", log.getLog());
     }
 
     @Test
-    public void testDrawNumDiamondOutput4() throws Exception {
-        Exercise1.drawNumDiamond(6);
+    public void testDrawDiamondOutput4() throws Exception {
+        Exercise5.drawDiamond(6);
         assertEquals("NO VALID INPUT" + System.lineSeparator(), log.getLog());
     }
 }
