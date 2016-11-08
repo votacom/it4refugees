@@ -26,4 +26,5 @@ public class Exercise5 {
     public static void main(String[] args) {
         //use this method to test your function
     }
+
 }
