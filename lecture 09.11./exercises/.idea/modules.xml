@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AddMultiply/AddMultiply.iml" filepath="$PROJECT_DIR$/AddMultiply/AddMultiply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Count/Count.iml" filepath="$PROJECT_DIR$/Count/Count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FillIn/FillIn.iml" filepath="$PROJECT_DIR$/FillIn/FillIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FillIn2/FillIn2.iml" filepath="$PROJECT_DIR$/FillIn2/FillIn2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Frame/Frame.iml" filepath="$PROJECT_DIR$/Frame/Frame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions.iml" filepath="$PROJECT_DIR$/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greet/Greet.iml" filepath="$PROJECT_DIR$/Greet/Greet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guess/Guess.iml" filepath="$PROJECT_DIR$/Guess/Guess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiply/Multiply.iml" filepath="$PROJECT_DIR$/Multiply/Multiply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse/Reverse.iml" filepath="$PROJECT_DIR$/Reverse/Reverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum/Sum.iml" filepath="$PROJECT_DIR$/Sum/Sum.iml" />
+    </modules>
+  </component>
+</project>

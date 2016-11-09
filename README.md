@@ -24,4 +24,17 @@ We have learned what are variables, how to declare and initialize them, what is 
 
 The presentationc slides are available in the respective directory.
 
+## Nov 9:
+We revisited loops and functions.
+
+You can find the Diamond example in the respective directory.
+
+###Homework:
+
+In the lectures directory there is a Project calles exercises.
+It contains the homework about functions.
+
+
+Some of the exercises were taken from http://www.programmingbydoing.com. 
+There you can find many other useful exercises!
 
