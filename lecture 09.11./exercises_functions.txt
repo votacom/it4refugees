@@ -1,0 +1,82 @@
+Sum
+
+write a function that computes the sum of two numbers
+
+----
+
+Multiply
+
+write a function that multiplies two numbers without using "*"
+
+----
+
+Greet
+
+write a function that takes a name (String) as input and returns "Hello <name>!" as String.
+Print out the String in the main function.
+
+
+----
+
+AddMultiply
+
+write a program that uses the previous functions for computing and multiplying numbers depending on the user's choice (e.g., "What do you want to do? [1] add [2] multiply" ...)
+
+----
+
+Guess
+
+Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. Try to use functions where it makes sense, for example, a function that takes the number the user guessed as a parameter and returns either true or false depending on whether or not the guess was correct.
+
+----
+
+FillIn and FillIn2
+
+Fix the borken functions and function calls by inserting the right types and return variables.
+
+----
+
+
+
+
+
+
+Optional Exercises (things we haven't learnt yet)
+----
+
+Count
+
+write a function that returns the number of characters in a string
+
+Hint: Look up String.length()
+
+----
+
+Reverse
+
+write a function that returns a String of reversed digits from a number (1234 -> "4321")
+
+Hint: Look up String.indexOf()
+
+----
+
+Frame
+
+Write a function that takes a sentence, prints out every word on its own line, and wraps everything in a "frame". For example, the sentence "Hello World in a frame" would be printed as:
+*********
+* Hello *
+* World *
+* in    *
+* a     *
+* frame *
+*********
+
+Hint: Look up String.substring()
+
+Try to solve this in a similar way like we did in today's exercise. Grab a pencil and a piece of paper and try to split the task into smaller problems. For example, you might want to think about the following:
+
+*) How many stars do I have to print on the top and bottom line?
+*) How do I figure out how many spaces I need towards the end of the frame for shorter words?
+*) How do I determine where one word ends and the next one starts?
+
+It might be helpful to then implement one of the smaller problems you identified, run your your program and see what it does. For example, you could write a function that separates 
