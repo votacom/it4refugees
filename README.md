@@ -29,10 +29,10 @@ We revisited loops and functions.
 
 You can find the Diamond example in the respective directory.
 
-###Homework:
+###Homework until 16.11.2016:
 
 In the lectures directory there is a Project calles exercises.
-It contains the homework about functions.
+It contains the homework about functions until 16.11.2016.
 
 
 Some of the exercises were taken from http://www.programmingbydoing.com. 
