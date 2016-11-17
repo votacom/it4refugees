@@ -2,6 +2,12 @@
 
 Materials for TU Wien's programming lectures for Welcome.TU.code in the winter term 2016/17
 
+## Nov 16:
+String manipulation was repeated and further examples have been explained. Further more we covered Arrays, how to init, fill with data and print them.
+
+###Homework
+The Homework consists of multiple exercises about arrays. The last exercise is optional and covers multi dimensional arrays.
+
 ## Nov 14:
 We started with String manipulations. The functions length, contains, startsWith, endsWith, indexOf and charAt were explained.
 
