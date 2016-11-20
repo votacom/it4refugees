@@ -2,6 +2,13 @@
 
 Materials for TU Wien's programming lectures for Welcome.TU.code in the winter term 2016/17
 
+## Nov 21:
+After recap we will learn Scanner and 2D-Arrays.
+
+### Homework
+We made a 4 in a row example template.
+You can also find more exercises on http://codingbat.com/java
+
 ## Nov 16:
 String manipulation was repeated and further examples have been explained. Further more we covered Arrays, how to init, fill with data and print them.
 
