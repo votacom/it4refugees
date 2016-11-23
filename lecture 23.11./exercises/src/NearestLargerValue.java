@@ -16,5 +16,5 @@ public class NearestLargerValue {
     public static void main(String[] args) {
 
     }
-    
+
 }
