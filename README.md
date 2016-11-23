@@ -4,7 +4,8 @@ Materials for TU Wien's programming lectures for Welcome.TU.code in the winter t
 
 ## Nov 23:
 Function and Array Recap.
-Together, we wrote a program which prints words in a frame. A reference implementation can be found in lecture 23.11./presentation/frame
+Together, we wrote a program which prints words in a frame. A reference implementation can be found in lecture 23.11./presentation/frame.
+The solution we worked out together on the blackboard and the beamer can be found in lecture 23.11./frame_group-solution.
 
 ### Homework
 There are four exercises as homework, you can find them in the lecture 23.11./exercises directory.
