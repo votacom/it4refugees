@@ -2,6 +2,10 @@
 
 Materials for TU Wien's programming lectures for Welcome.TU.code in the winter term 2016/17
 
+## Nov 23:
+Function and Array Recap.
+Write a program which prints words in a box together.
+
 ## Nov 21:
 After recap we will learn Scanner and 2D-Arrays.
 
