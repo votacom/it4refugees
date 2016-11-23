@@ -4,7 +4,10 @@ Materials for TU Wien's programming lectures for Welcome.TU.code in the winter t
 
 ## Nov 23:
 Function and Array Recap.
-Write a program which prints words in a box together.
+Together, we wrote a program which prints words in a frame. A reference implementation can be found in lecture 23.11./presentation/frame
+
+### Homework
+There are four exercises as homework, you can find them in the lecture 23.11./exercises directory.
 
 ## Nov 21:
 After recap we will learn Scanner and 2D-Arrays.
