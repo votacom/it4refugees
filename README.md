@@ -2,6 +2,11 @@
 
 Materials for TU Wien's programming lectures for Welcome.TU.code in the winter term 2016/17
 
+## Nov 30:
+Object Oriented Programming: Constructors, Visibility, Setter&Getter
+
+The homework exercises until next week (Dec 7) are in the particular folder. 
+
 ## Nov 23:
 Function and Array Recap.
 Together, we wrote a program which prints words in a frame. A reference implementation can be found in lecture 23.11./presentation/frame.
