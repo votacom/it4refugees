@@ -5,7 +5,14 @@ Materials for TU Wien's programming lectures for Welcome.TU.code in the winter t
 ## Nov 30:
 Object Oriented Programming: Constructors, Visibility, Setter&Getter
 
-The homework exercises until next week (Dec 7) are in the particular folder. 
+The homework exercises until next week (Dec 7) are in the particular folder.
+
+## Nov 28:
+Array recap, discussing scope of variables.
+Indroduction to object-oriented programming with simple examples.
+
+### Homework:
+Completing the examples written during lesson (adding toString() and setter - Methods).
 
 ## Nov 23:
 Function and Array Recap.
