@@ -2,6 +2,13 @@
 
 Materials for TU Wien's programming lectures for Welcome.TU.code in the winter term 2016/17
 
+## Dez 5:
+Recap of Object Oriented Programming
+Examples for using the "Generate" option in IntelliJ for Constructor, Setter and Getters and the toString() method
+Arrays of self implemented classes
+
+Homework: See the homework.pdf in the folder lecture 05.12 -> until Dec 12
+
 ## Nov 30:
 Object Oriented Programming: Constructors, Visibility, Setter&Getter
 
