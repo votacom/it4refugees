@@ -2,6 +2,13 @@
 
 Materials for TU Wien's programming lectures for Welcome.TU.code in the winter term 2016/17
 
+## Dez 7:
+Recap of variable scoping (Quiz)
+ArrayList as an alternative to Array which makes life easier
+Correction of a "bad" implementation with arrays to a good one using ArrayList
+
+Homework: two exercises in homework.pdf
+
 ## Dez 5:
 Recap of Object Oriented Programming
 Examples for using the "Generate" option in IntelliJ for Constructor, Setter and Getters and the toString() method
