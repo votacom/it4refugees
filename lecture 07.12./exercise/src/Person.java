@@ -1,5 +1,3 @@
-package replaceArrays;
-
 /**
  * Created by johannesvass on 07.12.16.
  */
