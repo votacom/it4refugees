@@ -2,6 +2,11 @@
 
 Materials for TU Wien's programming lectures for Welcome.TU.code in the winter term 2016/17
 
+## Dez 12:
+Slides: https://www.pervasive.jku.at/Teaching/lvaInfo.php?key=438&do=material
+SWE1 VO05 Objects I.pdf
+Username/Password: https://de.m.wikipedia.org/wiki/Befreundete_Zahlen
+
 ## Dez 7:
 Recap of variable scoping (Quiz)
 ArrayList as an alternative to Array which makes life easier
