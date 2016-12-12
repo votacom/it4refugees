@@ -70,6 +70,15 @@ It contains the homework about functions until 16.11.2016.
 Some of the exercises were taken from http://www.programmingbydoing.com. 
 There you can find many other useful exercises!
 
+## Nov 7:
+Recap
+Finding errors
+Exceptions and ExceptionHandling
+(Recursion in slides but not presented)
+
+### Homework:
+Excercise 5 in homework folder, see slides for explanation
+
 ## Oct 19:
 We have learned if-else-statements and while- and for-loops.
 We have learned the data type <code>double</code> and the keyword <code>final</code>.
