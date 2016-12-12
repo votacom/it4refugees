@@ -71,9 +71,9 @@ Some of the exercises were taken from http://www.programmingbydoing.com.
 There you can find many other useful exercises!
 
 ## Nov 7:
-Recap
-Finding errors
-Exceptions and ExceptionHandling
+Recap,
+Finding errors,
+Exceptions and ExceptionHandling,
 (Recursion in slides but not presented)
 
 ### Homework:
