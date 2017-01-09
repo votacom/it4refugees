@@ -2,6 +2,11 @@
 
 Materials for TU Wien's programming lectures for Welcome.TU.code in the winter term 2016/17
 
+## Jan 9:
+Recap of enums, classes and objects, variable scoping and ArrayList.
+We started with inheritance.
+The LiveExample is an optional exercise for self-studying.
+
 ## Dez 12:
 Slides: https://www.pervasive.jku.at/Teaching/lvaInfo.php?key=438&do=material
 SWE1 VO05 Objects I.pdf
