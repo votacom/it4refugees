@@ -2,6 +2,11 @@
 
 Materials for TU Wien's programming lectures for Welcome.TU.code in the winter term 2016/17
 
+## Jan 18:
+In our last lecture, we concentrated on correction of the christmas project and open homework exercises. As a motivation for further Java programming, we presented Android app development live in AndroidStudio and talked about Web Development (languages, tools, databases, server vs. client side programs, description vs. programming languages).
+
+We wish all participants joy and success for their future programming experiences!
+
 ## Jan 9:
 Recap of enums, classes and objects, variable scoping and ArrayList.
 We started with inheritance.
